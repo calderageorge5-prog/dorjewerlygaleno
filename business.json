@@ -1,5 +1,6 @@
 {
   "nombre": "Dorjewerly",
+  "tagline": "Joyas con Propósito",
   "tipo": "joyería",
   "direccion_retiro": "Río Piedras, frente a Pat's Principal, frente a Puerta Azul, al lado del bar La Musa, San Pedro Sula",
   "horario": "Lunes a sábado, 10:00 AM a 6:00 PM",
@@ -18,7 +19,7 @@
       "precio": 1450,
       "material": "Plata",
       "descripcion": "Argollas gruesas cubiertas de piedras verdes en pavé, broche de presión.",
-      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/Atiendeya/main/fotos/001.jpg"
+      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/dorjewerlygaleno-bot/main/001.jpg"
     },
     {
       "id": "002",
@@ -26,7 +27,7 @@
       "precio": 890,
       "material": "Plata",
       "descripcion": "Diseño escalonado tipo hojas superpuestas, acabado brillante.",
-      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/Atiendeya/main/fotos/002.jpg"
+      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/dorjewerlygaleno-bot/main/002.jpg"
     },
     {
       "id": "003",
@@ -34,7 +35,7 @@
       "precio": 1450,
       "material": "Plata",
       "descripcion": "Argollas medianas cubiertas de piedras azules en pavé.",
-      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/Atiendeya/main/fotos/003.jpg"
+      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/dorjewerlygaleno-bot/main/003.jpg"
     },
     {
       "id": "004",
@@ -42,7 +43,7 @@
       "precio": 1200,
       "material": "Plata",
       "descripcion": "Argollas delgadas cubiertas de piedras verdes en pavé.",
-      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/Atiendeya/main/fotos/004.jpg"
+      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/dorjewerlygaleno-bot/main/004.jpg"
     },
     {
       "id": "005",
@@ -50,7 +51,7 @@
       "precio": 1450,
       "material": "Plata",
       "descripcion": "Diseño tipo gota cubierto de piedras rosa/fucsia en pavé.",
-      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/Atiendeya/main/fotos/005.jpg"
+      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/dorjewerlygaleno-bot/main/005.jpg"
     },
     {
       "id": "006",
@@ -58,7 +59,7 @@
       "precio": 780,
       "material": "Plata",
       "descripcion": "Forma de hoja alargada, disponible en acabado dorado o plateado.",
-      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/Atiendeya/main/fotos/006.jpg"
+      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/dorjewerlygaleno-bot/main/006.jpg"
     },
     {
       "id": "007",
@@ -66,7 +67,7 @@
       "precio": 690,
       "material": "Plata",
       "descripcion": "Domo redondo minimalista, disponible en acabado dorado o plateado.",
-      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/Atiendeya/main/fotos/007.jpg"
+      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/dorjewerlygaleno-bot/main/007.jpg"
     },
     {
       "id": "008",
@@ -74,7 +75,7 @@
       "precio": 950,
       "material": "Plata",
       "descripcion": "Forma libre ondulada tipo listón, acabado plateado brillante.",
-      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/Atiendeya/main/fotos/008.jpg"
+      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/dorjewerlygaleno-bot/main/008.jpg"
     },
     {
       "id": "009",
@@ -82,7 +83,7 @@
       "precio": 850,
       "material": "Plata",
       "descripcion": "Diseño irregular tipo flor con perla central.",
-      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/Atiendeya/main/fotos/009.jpg"
+      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/dorjewerlygaleno-bot/main/009.jpg"
     },
     {
       "id": "010",
@@ -90,7 +91,7 @@
       "precio": 920,
       "material": "Plata",
       "descripcion": "Textura ondulada tipo agua con piedra pequeña incrustada.",
-      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/Atiendeya/main/fotos/010.jpg"
+      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/dorjewerlygaleno-bot/main/010.jpg"
     },
     {
       "id": "011",
@@ -98,7 +99,7 @@
       "precio": 920,
       "material": "Plata",
       "descripcion": "Misma textura ondulada tipo agua en acabado plateado, con piedra pequeña.",
-      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/Atiendeya/main/fotos/011.jpg"
+      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/dorjewerlygaleno-bot/main/011.jpg"
     },
     {
       "id": "012",
@@ -106,7 +107,7 @@
       "precio": 1100,
       "material": "Plata",
       "descripcion": "Doble argolla entrelazada, diseño llamativo.",
-      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/Atiendeya/main/fotos/012.jpg"
+      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/dorjewerlygaleno-bot/main/012.jpg"
     },
     {
       "id": "013",
@@ -114,7 +115,7 @@
       "precio": 650,
       "material": "Plata",
       "descripcion": "Anillo ajustable con diseño de hojas superpuestas envolventes.",
-      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/Atiendeya/main/fotos/013.jpg"
+      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/dorjewerlygaleno-bot/main/013.jpg"
     },
     {
       "id": "014",
@@ -122,7 +123,7 @@
       "precio": 720,
       "material": "Plata",
       "descripcion": "Anillo de forma libre/orgánica con piedra pequeña, acabado plateado.",
-      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/Atiendeya/main/fotos/014.jpg"
+      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/dorjewerlygaleno-bot/main/014.jpg"
     },
     {
       "id": "015",
@@ -130,7 +131,7 @@
       "precio": 1350,
       "material": "Plata",
       "descripcion": "Brazalete abierto ajustable con piedra celeste central.",
-      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/Atiendeya/main/fotos/015.jpg"
+      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/dorjewerlygaleno-bot/main/015.jpg"
     },
     {
       "id": "016",
@@ -138,7 +139,7 @@
       "precio": 780,
       "material": "Plata",
       "descripcion": "Diseño tipo flor con perla al centro, disponible en acabado dorado o plateado.",
-      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/Atiendeya/main/fotos/016.jpg"
+      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/dorjewerlygaleno-bot/main/016.jpg"
     },
     {
       "id": "017",
@@ -146,7 +147,7 @@
       "precio": 580,
       "material": "Plata",
       "descripcion": "Anillos delgados apilables, cada uno con una perla pequeña. Se pueden combinar.",
-      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/Atiendeya/main/fotos/017.jpg"
+      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/dorjewerlygaleno-bot/main/017.jpg"
     },
     {
       "id": "018",
@@ -154,7 +155,7 @@
       "precio": 690,
       "material": "Plata",
       "descripcion": "Anillo de forma libre con textura martillada, diseño único.",
-      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/Atiendeya/main/fotos/018.jpg"
+      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/dorjewerlygaleno-bot/main/018.jpg"
     },
     {
       "id": "019",
@@ -162,7 +163,7 @@
       "precio": 980,
       "material": "Dorado (material exacto pendiente de confirmar)",
       "descripcion": "Cadena fina con dije de cuarzo crudo natural en montura dorada. Línea Maria Dolores.",
-      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/Atiendeya/main/fotos/019.jpg"
+      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/dorjewerlygaleno-bot/main/019.jpg"
     },
     {
       "id": "020",
@@ -170,7 +171,7 @@
       "precio": 1250,
       "material": "Dorado (material exacto pendiente de confirmar)",
       "descripcion": "Medallón redondo con incrustaciones de piedras variadas (druzas, cristales) en marco dorado texturizado. Línea Maria Dolores.",
-      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/Atiendeya/main/fotos/020.jpg"
+      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/dorjewerlygaleno-bot/main/020.jpg"
     },
     {
       "id": "021",
@@ -178,7 +179,7 @@
       "precio": 890,
       "material": "Dorado (material exacto pendiente de confirmar)",
       "descripcion": "Collar de bolas grandes con broche en forma de corazón dorado. Disponible en jade verde o ágata roja.",
-      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/Atiendeya/main/fotos/021.jpg"
+      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/dorjewerlygaleno-bot/main/021.jpg"
     },
     {
       "id": "022",
@@ -186,7 +187,7 @@
       "precio": 750,
       "material": "Dorado (material exacto pendiente de confirmar)",
       "descripcion": "Cinta de terciopelo negro ajustable tipo choker/wrap, con dije de cruz y perlas colgantes.",
-      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/Atiendeya/main/fotos/022.jpg"
+      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/dorjewerlygaleno-bot/main/022.jpg"
     },
     {
       "id": "023",
@@ -194,7 +195,7 @@
       "precio": 1100,
       "material": "Dorado (material exacto pendiente de confirmar)",
       "descripcion": "Doble cadena tipo cable gruesa con dije de bola colgante.",
-      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/Atiendeya/main/fotos/023.jpg"
+      "imagen": "https://raw.githubusercontent.com/calderageorge5-prog/dorjewerlygaleno-bot/main/023.jpg"
     }
   ]
 }
