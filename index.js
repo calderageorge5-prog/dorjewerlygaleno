@@ -44,14 +44,9 @@ const conversations = new Map();
 // -------------------------------------------------------------------------
 
 function estaEnHorario() {
-  // Horario tienda: Lunes a sábado, 10 AM a 6 PM (Honduras GMT-6)
-  const ahora = new Date();
-  const hondurasHora = new Date(ahora.getTime() - (6 * 60 * 60 * 1000));
-  const dia = hondurasHora.getUTCDay(); // 0=domingo, 6=sábado
-  const hora = hondurasHora.getUTCHours();
-  const esLaboral = dia >= 1 && dia <= 6; // Lunes a sábado
-  const enHorario = hora >= 10 && hora < 18;
-  return esLaboral && enHorario;
+  // Notificaciones a la dueña llegan SIEMPRE, sin importar día ni hora.
+  // El bot debe avisar aunque sea domingo o de madrugada — es un pedido, no puede esperar.
+  return true;
 }
 
 async function enviarNotificacionPedido(pedido) {
@@ -698,4 +693,3 @@ app.listen(PORT, () => {
   console.log(`   Negocio configurado: ${business.nombre}`);
   console.log(`   Productos en catálogo: ${business.productos.length}`);
 });
-
